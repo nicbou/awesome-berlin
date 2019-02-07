@@ -4,12 +4,13 @@ Germany has a reputation for having one of the best health care systems in the w
 
 This guide provides a brief summary of how to apply for public health insurance, but I also strongly recommend that you read the following websites for more information:
 
-[How to Germany - Health Insurance](http://www.howtogermany.com/pages/healthinsurance.html)
-[Toytown Germany - Health Insurance](http://www.toytowngermany.com/wiki/Health_insurance)
+* [All About Berlin - An intro to German health insurance](https://allaboutberlin.com/guides/german-health-insurance)
+* [How to Germany - Health Insurance](http://www.howtogermany.com/pages/healthinsurance.html)
+* [Toytown Germany - Health Insurance](http://www.toytowngermany.com/wiki/Health_insurance)
 
 ## Public health insurance
 
-The costs for the public health insurance are ~15.5% of your salary, but approximately half of this value (7.3%) is paid by your employer.
+The costs for the public health insurance are ~15.6% of your salary, but approximately half of this value (7.3%) is paid by your employer. If you are a freelancer, you the full 15.6% yourself. As of 2019, your monthly contribution is capped at around 400€ (815€ for freelancers).
 
 Applying for public health insurance is relatively stress free, as it can generally be done online and in English. Before you apply, you must first choose your health insurance provider (*Krankenkassen*), which are non-profit associations that administer the government health scheme. Some options are:
 
@@ -24,8 +25,14 @@ I ended up choosing TK, as they are one of the most famous *Krankenkassen* and o
 
 Shortly after you send your email you will receive a form that you will have to fill out and send back to them. If you are married or have kids and plan to apply for them as well, it might be required that you send your marriage certificate (or birth certificate for your children). If you have any questions while filling out the form, feel free to ask in the comments section or email them directly, as they usually reply within minutes. You will also be required to send a biometric photo to them (you can scan it and send by email when they ask for it), which will be printed on your your health card.
 
-You don't need to know all of this by heart. Your new *Krankenkassen* will always let you know if they need you to send a missing document.
+You don't need to know all of this by heart. Your new *Krankenkasse* will always let you know if they need you to send a missing document.
 
 Some days after your subscription you will receive a certificate (by email) and some weeks after your health insurance card:
 
 ![health insurance card](https://cloud.githubusercontent.com/assets/2975955/16856590/4d38d912-4a1b-11e6-9cbb-8feaab9a1203.png)
+
+## Private health insurance
+
+If you are a freelancer, or an employee with a high income (over 60 750€ in 2019), you can also choose private health insurance. Private health insurance is usually cheaper *when you are young*, and gets more expensive as you age. It's not based on your income.
+
+Switching from private health insurance to public insurance can be very difficult, especially as you get older. Make sure you understand the [benefits and disadvantages](https://allaboutberlin.com/guides/german-health-insurance) before you choose to go private.
